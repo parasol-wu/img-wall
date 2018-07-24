@@ -1,0 +1,6 @@
+page{
+  background: #f9f9f9;
+}
+.slide-image{
+  width: 100%;
+}
